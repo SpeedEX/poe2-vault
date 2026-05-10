@@ -3,14 +3,15 @@
 **Runes of Aldur** is the challenge league for Patch 0.5, focused on ancient Ezomyte technology and powerful crafting.
 
 ## 🕯️ League Mechanic: Ezomyte Remnants
-- **Inscription:** Players find Remnants and inscribe them with symbols (Runes).
-- **Selection:** Symbols dictate both the reward (e.g., crafting options) and the monster modifiers.
-- **Resource:** **Verisium** is collected from encounters and used for advanced crafting, including **Runic Ward**.
+- **NPC:** **Farrow**, a seeker of runes exploring the forgotten bond between Ezomyte tradition and Kalguuran craft.
+- **Inscription:** Find mysterious **Ezomyte Remnants** across Wraeclast and awaken their ancient magic by inscribing runic symbols.
+- **Mechanic:** Pre-existing symbols on the remnant dictate item creation options. Inscribed runes empower nearby monsters with additional abilities.
+- **Resource:** **Verisium**, an ancient Kalguuran metal used for **Runic Ward** and forging.
 
-## ⚒️ Rune Forging & Unique Upgrading
-- **Rune Forging:** Forge collected runes into equipment slots for custom stat bonuses.
-- **Mystic Refuge (Act 3):** Unlocks the ability to upgrade lower-level Unique items into tiers viable for endgame content.
-- **Runes:** Over 100 new runes introduced for diverse build customization.
+## ⚒️ Runeforging & Unique Upgrading
+- **Runeforging:** Help Farrow master Kalguuran technology to experiment with over a hundred new runes.
+- **Unique Upgrading:** Forge low-level Unique items into endgame-viable versions.
+- **Orof's Legacy:** Extract unique modifiers as runes by destroying Ezomyte/Kalguuran uniques.
 
 ---
 ## 🔗 Links

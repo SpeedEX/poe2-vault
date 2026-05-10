@@ -4,53 +4,39 @@ The Martial Artist is a Monk ascendancy introduced in Patch 0.5, focusing on una
 
 ## ⚔️ Ascendancy Nodes
 
-### Holo Form Technique
-- **Effect:** Creates images within a 6m radius.
-- **Cost:** Costs 80% of your skill's cost.
+### Void Form Technique (Holo Form)
+- **Effect:** Channel to create illusions of yourself that perform a chosen attack ability.
 - **Scaling:** +2 additional images per Power Charge.
-- **Penalties:** 30% less attack speed, 20% less damage.
-- **Restriction:** Images cannot perform channeled or conditional skills.
-
-### Hollow Resonance Technique
-- **Effect:** Critical hits ring a bell on your back.
-- **Impact:** 150% more stun buildup.
-- **AOE:** 2m shockwave radius on trigger.
-
-### Hollow Focus Technique
-- **Effect:** Summons a "Bell" next to you (Limit: 1).
-- **Duration:** 5 seconds (4.1s cooldown between appearances).
-- **Utility:** Cannot cause stun buildup, but can be siphoned or struck to generate Power Charges (e.g., via Siphoning Strike).
+- **Utility:** Transforms small-AOE skills into massive horde-clearing abilities.
+- **Penalties:** 30% less attack speed, 20% less damage for images.
 
 ### Way of the Mountain
-- **Effect:** 200 suppressing chance per enemy power.
-- **Buff:** Gain "Mountain's Teachings" upon immobilizing an enemy.
-- **Mountain's Teachings:** 
-    - 20% more damage for your attacks and ascendancy-granted attacks.
-    - If hit for 30% life (pre-modifiers), take 70% less damage.
-    - +50% stun threshold.
-- **Loss:** Buff is lost when you hit or sustain an attack that benefits from it.
+- **Effect:** Covers the character in stone when immobilizing enemies.
+- **Defensive:** Absorbs large amounts of damage.
+- **Offensive:** Hardens the weapon (or fists) with stone for increased damage.
 
-### Runic Meridian
-- **Effect:** Allows etching runes onto your body.
-- **Sockets:** Grants additional rune sockets:
-    - Helmet (1)
-    - Body Armor (2)
-    - Gloves (1)
-    - Boots (1)
-- **Note:** Possible to socket items like **Idol of Sirius** for extra attack speed.
+### Void Focus Technique
+- **Effect:** Manifest spectral **Bells** around the character.
+- **Mechanic:** Bells can be destroyed by any of your attacks (including those from *Void Form* illusions).
 
-### Fist of Stone
-- **Effect:** Specializes in equipped Gloves, modifying their existing affixes into generally much more powerful versions.
-- **Stats:** Grants flat attack damage, resistances, and life on crit based on the gloves equipped.
-- **Synergy:** Heavily implied synergy with **Hollow Palm**.
+### Void Resonance Technique
+- **Effect:** Attaches a bell to your back that rings every time you land a critical hit.
+- **AOE:** Deals damage to all nearby enemies on trigger.
+
+### Meridians
+- **Effect:** Runic etchings along the character's meridians.
+- **Sockets:** Grants additional rune sockets directly into the character (1 Helm, 2 Body, 1 Gloves, 1 Boots).
+
+### Way of the Stone Fist
+- **Effect:** Transforms equipped gloves into **Stone Fists**.
+- **Transformation:** Every modifier on the original gloves is replaced with a significantly more powerful and impactful version.
+- **Example:** Flat damage, resistances, and life-on-hit are massively increased upon equipping.
 
 ---
 
 ## 🧪 Speculative / #unconfirmed
-- **Missing Nodes:** 2 ascendancy nodes remain unrevealed.
-- **Flicker Interaction:** Unconfirmed if Flicker Strike can target the bells from *Hollow Focus* or interact with *Holo Form* images.
-- **Conditional Skills:** The definition of "conditional skills" for *Holo Form* images is unknown.
-- **Glove Scaling:** Exact scaling of *Fist of Stone* on various glove mods (e.g., % increased attack speed) is untested.
+- **Flicker Interaction:** Unconfirmed if Flicker Strike can target the bells from *Void Focus*.
+- **Glove Scaling:** Exact multipliers for *Way of the Stone Fist* are unknown.
 
 ---
 ## 🔗 See Also
@@ -59,4 +45,4 @@ The Martial Artist is a Monk ascendancy introduced in Patch 0.5, focusing on una
 - [[Runic_Ward]]
 
 ## 🌐 References
-- **Source:** [[Patch_0.5_Links]] (Transcript from Kevlar Peterson)
+- **Source:** [[Patch_0.5_Links]] (GGG Live Reveal Transcript)

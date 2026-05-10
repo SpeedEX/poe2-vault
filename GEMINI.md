@@ -2,6 +2,15 @@
 
 This file provides foundational mandates for any AI agent interacting with this workspace. Adhere strictly to these guidelines to maintain the integrity and organization of the "Second Brain."
 
+## 🛠️ Environment & Command Mandates
+
+- **Environment Detection**: At the start of every session or when executing shell commands, verify the current operating system (e.g., `win32`) and terminal (e.g., PowerShell).
+- **Command Syntax**: 
+    - On Windows, strictly use **PowerShell** syntax. 
+    - Avoid using bash-specific flags (e.g., `ls -a`) unless explicitly supported. 
+    - Use PowerShell equivalents like `Get-ChildItem -Force` or `Test-Path`.
+- **Validation**: If a command fails due to environment mismatch, immediately correct the strategy to use the native shell of the current system.
+
 ## 📂 Information Management Workflow
 
 All information processing must follow these four steps:

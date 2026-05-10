@@ -1,6 +1,6 @@
 description = "Process both the Unsorted inbox and Quick Notes right away."
 prompt = """
-Please process the following inbox data according to the workflow in GEMINI.md.
+Please process the following inbox data according to the workflow and environment mandates in GEMINI.md.
 
 --- QUICK NOTES CONTENT ---
 @{00_Inbox/Quick_Notes.md}
@@ -9,11 +9,14 @@ Please process the following inbox data according to the workflow in GEMINI.md.
 @{00_Inbox/Unsorted/}
 
 Follow these steps:
-1. Analyze the content of Quick_Notes.md and any files in Unsorted/.
-2. Distribute the information to the correct vault folders (01-06).
-3. Use the build template for new builds.
-4. Handle any uncertainty (??, #unconfirmed) by marking it as Speculative.
-5. Clear the processed content as per the workflow.
+1. **Environment Check**: Ensure all shell commands use PowerShell syntax as per GEMINI.md.
+2. **Analysis**: Analyze content for technical depth. Do not skip minor details or mechanic descriptions.
+3. **Language Consistency**: Ensure all summaries and new content are written in **English** to match the vault's standard.
+4. **Distribution**: Move info to correct folders (01-06). Use `01_Builds/Concepts/Build_Template.md` for new builds.
+5. **Synchronization**: Search the vault for any existing files related to this new information. Update those files to ensure the entire vault remains consistent and up-to-date (e.g., if a new league mechanic is mentioned, update both the master summary and the specific system file).
+6. **Linking**: Create and update cross-references (`[[Link]]`) to maintain the knowledge graph.
+7. **Uncertainty**: Mark `??` or `#unconfirmed` as Speculative.
+8. **Cleanup**: Clear `Quick_Notes.md` (keep header) and delete processed files in `Unsorted/`.
 
 Additional focus: {{args}}
 """

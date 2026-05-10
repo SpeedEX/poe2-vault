@@ -4,12 +4,14 @@ The **Genesis Tree** is a specialized crafting system added to the Breach mechan
 
 ## ⚙️ Mechanics
 - **Focus:** Primarily targets **Caster** and **Minion** equipment (Amulets, Rings, Staves).
-- **Progression:** Unlock branches of the tree by participating in Breach encounters and collecting Genesis Splinters.
-- **Outcome:** Allows for highly deterministic modifiers related to cast speed, minion health, and mana efficiency.
+- **Progression:** Unlock branches by participating in **Unstable Breaches** (Keepers of the Flame style).
+- **Resources:** Requires **Hiveblood** and **Wombgifts** obtained from Breach encounters.
+- **Outcome:** Allows for highly deterministic modifiers; points can be respec'd for free at any time.
+
 
 ---
 ## 🔗 Links
-- [[Patch_Notes_0.5_Summary]]
+- [[Livestream_0.5_Return_of_the_Ancients]]
 - [[02_Systems/Leagues/]]
 
 ## 🌐 References

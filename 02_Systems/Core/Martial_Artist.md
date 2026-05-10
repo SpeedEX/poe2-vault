@@ -40,7 +40,7 @@ The Martial Artist is a Monk ascendancy introduced in Patch 0.5, focusing on una
 - **Note:** Possible to socket items like **Idol of Sirius** for extra attack speed.
 
 ### Fist of Stone
-- **Effect:** "Makes your gloves act like a weapon."
+- **Effect:** Specializes in equipped Gloves, modifying their existing affixes into generally much more powerful versions.
 - **Stats:** Grants flat attack damage, resistances, and life on crit based on the gloves equipped.
 - **Synergy:** Heavily implied synergy with **Hollow Palm**.
 
@@ -54,7 +54,7 @@ The Martial Artist is a Monk ascendancy introduced in Patch 0.5, focusing on una
 
 ---
 ## 🔗 See Also
-- [[Patch_Notes_0.5_Summary]]
+- [[Livestream_0.5_Return_of_the_Ancients]]
 - [[Martial_Artist_Flicker_Draft]]
 - [[Runic_Ward]]
 

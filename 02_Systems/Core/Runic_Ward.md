@@ -4,8 +4,9 @@
 
 ## ⚙️ Mechanics
 - **Damage Absorption:** Acts as a "secondary life bar" that takes damage before Life.
-- **Recharge Rate:** Characterized by extremely fast recovery if the player avoids damage for a short duration.
-- **Offensive Utility:** Many **Runic Skills** (colorless/attribute-less) require Runic Ward as a resource to cast.
+- **Recharge Rate:** Characterized by extremely fast recovery if damage is avoided.
+- **Resource for Runic Skills:** **Runic Skills** (colorless, no attribute requirements) consume Runic Ward as a resource instead of Mana or Life.
+- **Skill Example:** *Frostflame Nova*.
 
 ## 💡 Strategic Analysis
 - **Build Diversity:** Enhances survivability for "glass cannon" archetypes like [[Spirit_Walker]] (Huntress) or Sorceress.
@@ -13,7 +14,7 @@
 
 ---
 ## 🔗 Links
-- [[Patch_Notes_0.5_Summary]]
+- [[Livestream_0.5_Return_of_the_Ancients]]
 - [[Runes_of_Aldur]]
 
 ## 🌐 References

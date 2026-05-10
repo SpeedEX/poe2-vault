@@ -29,7 +29,7 @@
 ---
 ## 🔗 Links
 - [[Martial_Artist]] (Detailed Node Info)
-- [[Patch_Notes_0.5_Summary]]
+- [[Livestream_0.5_Return_of_the_Ancients]]
 - [[Runic_Ward]]
 
 ## 🌐 References

@@ -9,7 +9,7 @@
 
 ---
 ## 🔗 Links
-- [[Patch_Notes_0.5_Summary]]
+- [[Livestream_0.5_Return_of_the_Ancients]]
 - [[Runes_of_Aldur]]
 - [[Runic_Ward]]
 

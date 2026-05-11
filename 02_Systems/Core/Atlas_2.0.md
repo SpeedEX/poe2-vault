@@ -1,3 +1,7 @@
+---
+tags: #version/0.5 #type/mechanic
+---
+
 # Atlas 2.0 (Endgame)
 
 The "Origins of Divinity" expansion introduces a major overhaul to the Atlas of Worlds, focusing on progression flexibility and targeted farming.
@@ -32,4 +36,5 @@ The "Origins of Divinity" expansion introduces a major overhaul to the Atlas of 
 ## 🌐 References
 - **Source:** [[Patch_0.5_Links]] [1], [2], [3]
 - **Q&A Notes:** [[00_Inbox/Unsorted/qna.md]] (processed)
+
 

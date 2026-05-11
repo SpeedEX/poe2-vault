@@ -1,3 +1,7 @@
+---
+tags: #version/0.5
+---
+
 # Patch 0.5 Unique Items
 
 This list tracks the new and revised Unique items introduced in Patch 0.5 "Return of the Ancients."
@@ -30,3 +34,4 @@ This list tracks the new and revised Unique items introduced in Patch 0.5 "Retur
 
 ## 🌐 References
 - **Source:** [[Patch_0.5_Links]] (Official Announcement Data)
+

@@ -1,3 +1,7 @@
+---
+tags: #version/0.5 #type/mechanic
+---
+
 # Breach (Keepers of the Flame)
 
 **Breach** has been overhauled and replaced with content inspired by the "Keepers of the Flame".
@@ -21,3 +25,4 @@
 
 ## 🌐 References
 - **Source:** [[Patch_0.5_Links]] (Official Announcement Data)
+

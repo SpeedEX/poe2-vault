@@ -11,6 +11,7 @@ This file provides foundational mandates for any AI agent interacting with this 
 - **Naming Priority**: **STRICTLY PRESERVE** established entity names. Do not "correct" names based on transcript errors (e.g., if vault has "Mageblood", ignore transcript saying "Mage Blud").
 - **Deduplicate**: ALWAYS `search_files` before creating new ones to prevent redundant clones.
 - **Link**: Use Obsidian-style `[[Wiki Links]]` for all internal references.
+- **Conflict Management**: If new information (e.g., from web summaries) contradicts manual notes, **do not overwrite**. Wrap in `[CONFLICT_DETECTED]` block and notify user.
 
 ## Directory Mandates
 - 01_Builds: Mandatory use of 01_Builds/Concepts/Build_Template.md for new builds.

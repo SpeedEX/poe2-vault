@@ -1,3 +1,7 @@
+---
+tags: #version/0.5 #type/mechanic
+---
+
 # Runes of Aldur (League)
 
 **Runes of Aldur** is the challenge league for Patch 0.5, focused on ancient Ezomyte technology and powerful crafting.
@@ -30,4 +34,5 @@
 ## 🌐 References
 - **Source:** [[Patch_0.5_Links]] [1], [2], [3]
 - **Q&A Notes:** [[00_Inbox/Unsorted/qna.md]] (processed)
+
 

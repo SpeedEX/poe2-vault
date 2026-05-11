@@ -1,3 +1,7 @@
+---
+tags: #version/0.5 #type/mechanic
+---
+
 # Endgame Mechanics: Waystones and Map Tiers
 
 Patch 0.5 introduces significant changes to Waystone progression and map tiering.
@@ -23,3 +27,4 @@ Patch 0.5 introduces significant changes to Waystone progression and map tiering
 ## 🌐 References
 - **Source:** [[Patch_0.5_Links]]
 - **Analysis:** [[00_Inbox/Unsorted/hidden2.md]] (processed)
+

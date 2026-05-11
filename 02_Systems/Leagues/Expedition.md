@@ -1,3 +1,7 @@
+---
+tags: #version/0.5 #type/mechanic
+---
+
 # Expedition (Kalguuran Origins)
 
 **Expedition** in Patch 0.5 reveals its connection to the Ezomyte remnants and introduces a new island-based endgame.
@@ -20,3 +24,4 @@
 
 ## 🌐 References
 - **Source:** [[Patch_0.5_Links]] (Official Announcement Data)
+

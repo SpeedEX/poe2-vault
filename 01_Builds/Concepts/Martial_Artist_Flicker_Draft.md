@@ -1,3 +1,7 @@
+---
+tags: #version/0.5 #type/build
+---
+
 # Flicker Strike Martial Artist (Monk)
 
 ## Overview
@@ -48,3 +52,4 @@
 
 ## 🌐 References
 - **Source:** [[Patch_0.5_Links]] [4] (Kevlar Peterson Transcript)
+

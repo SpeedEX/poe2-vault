@@ -1,3 +1,7 @@
+---
+tags: #version/0.5 #type/build
+---
+
 # {{Build Name}}
 
 ## Overview

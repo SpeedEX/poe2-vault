@@ -1,3 +1,7 @@
+---
+tags: #version/0.5 #type/build
+---
+
 # Spirit Walker (Huntress Ascendancy)
 
 ## Overview
@@ -34,3 +38,4 @@
 
 ## 🌐 References
 - **Source:** [[Patch_0.5_Links]] [2], [3]
+

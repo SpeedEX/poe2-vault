@@ -1,3 +1,7 @@
+---
+tags: #version/0.5 #type/mechanic
+---
+
 # Ritual (Ritual of the Nameless)
 
 **Ritual** has been reworked in Patch 0.5 to include a brand-new progression arc and endgame threat.
@@ -21,3 +25,4 @@
 
 ## 🌐 References
 - **Source:** [[Patch_0.5_Links]] (GGG Live Reveal Transcript)
+

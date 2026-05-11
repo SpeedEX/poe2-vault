@@ -1,3 +1,7 @@
+---
+tags: #version/0.5 #type/build
+---
+
 # Martial Artist (Unarmed Monk Concept)
 
 ## Overview
@@ -34,3 +38,4 @@
 
 ## 🌐 References
 - **Source:** [[Patch_0.5_Links]] [2], [3]
+

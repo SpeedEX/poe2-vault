@@ -1,3 +1,7 @@
+---
+tags: #version/0.5 #type/mechanic
+---
+
 # Livestream 0.5 Summary: Return of the Ancients
 
 **Release Date:** May 29, 2026 (Early Access Update #4)
@@ -65,3 +69,4 @@
 ---
 ## 🚀 Future Roadmap
 - **Full Release (1.0):** Late 2026. Includes Acts 5 & 6.
+

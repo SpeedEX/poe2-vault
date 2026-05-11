@@ -1,3 +1,7 @@
+---
+tags: #version/0.5 #type/mechanic
+---
+
 # Runic Ward
 
 **Runic Ward** is a primary defensive layer introduced in Patch 0.5. It functions as a buffer for Life, designed to mitigate "one-shot" mechanics and support the new **Runic Skills**.
@@ -24,3 +28,4 @@
 
 ## 🌐 References
 - **Source:** [[Patch_0.5_Links]] [1], [2], [3]
+

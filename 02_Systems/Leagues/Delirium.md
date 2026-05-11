@@ -1,3 +1,7 @@
+---
+tags: #version/0.5 #type/mechanic
+---
+
 # Delirium (Tangmazu's Madness)
 
 **Delirium** in Patch 0.5 focuses on the pursuit of the Raven Trickster and new jewel-focused crafting.
@@ -20,3 +24,4 @@
 
 ## 🌐 References
 - **Source:** [[Patch_0.5_Links]] (Official Announcement Data)
+

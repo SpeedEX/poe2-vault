@@ -1,3 +1,7 @@
+---
+tags: #version/0.5
+---
+
 # Rune Forging
 
 **Rune Forging** is a core crafting pillar of the Runes of Aldur league.
@@ -15,3 +19,4 @@
 
 ## 🌐 References
 - **Source:** [[Patch_0.5_Links]] [1], [2], [3]
+

@@ -1,3 +1,7 @@
+---
+tags: #version/0.5 #type/mechanic
+---
+
 # Spirit Walker (Huntress Ascendancy)
 
 The Spirit Walker is a Huntress ascendancy introduced in Patch 0.5, focused on Azmerian tier-spirits, wisps, and beast taming.
@@ -37,3 +41,4 @@ The Spirit Walker is a Huntress ascendancy introduced in Patch 0.5, focused on A
 
 ## 🌐 References
 - **Source:** [[Patch_0.5_Links]] (GGG Live Reveal Transcript)
+

@@ -1,3 +1,7 @@
+---
+tags: #version/0.5 #type/mechanic
+---
+
 # Martial Artist (Monk Ascendancy)
 
 The Martial Artist is a Monk ascendancy introduced in Patch 0.5, focusing on unarmed combat, mirror images (holograms), and runic enhancements.
@@ -46,3 +50,4 @@ The Martial Artist is a Monk ascendancy introduced in Patch 0.5, focusing on una
 
 ## 🌐 References
 - **Source:** [[Patch_0.5_Links]] (GGG Live Reveal Transcript)
+

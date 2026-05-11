@@ -1,3 +1,7 @@
+---
+tags: #version/0.5
+---
+
 # Genesis Tree (Breach Crafting)
 
 The **Genesis Tree** is a specialized crafting system added to the Breach mechanic in Patch 0.5.
@@ -15,3 +19,4 @@ The **Genesis Tree** is a specialized crafting system added to the Breach mechan
 
 ## 🌐 References
 - **Source:** [[Patch_0.5_Links]] [1], [2], [3]
+

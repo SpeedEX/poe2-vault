@@ -1,3 +1,7 @@
+---
+tags: #version/0.5
+---
+
 # Orof's Legacy (Unique Rune Extraction)
 
 **Orof's Legacy** is a powerful new crafting system introduced in Patch 0.5 that allows for the extraction of unique modifiers from items.
@@ -22,3 +26,4 @@
 
 ## 🌐 References
 - **Source:** [[Patch_0.5_Links]] (Fubgun Speculation Transcript)
+

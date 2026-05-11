@@ -10,13 +10,21 @@ Please process the following inbox data according to the workflow and environmen
 
 Follow these steps:
 1. **Environment Check**: Ensure all shell commands use PowerShell syntax as per GEMINI.md.
-2. **Analysis**: Analyze content for technical depth. Do not skip minor details or mechanic descriptions.
-3. **Language Consistency**: Ensure all summaries and new content are written in **English** to match the vault's standard.
-4. **Distribution**: Move info to correct folders (01-06). Use `01_Builds/Concepts/Build_Template.md` for new builds.
-5. **Synchronization**: Search the vault for any existing files related to this new information. Update those files to ensure the entire vault remains consistent and up-to-date (e.g., if a new league mechanic is mentioned, update both the master summary and the specific system file).
-6. **Linking**: Create and update cross-references (`[[Link]]`) to maintain the knowledge graph.
-7. **Uncertainty**: Mark `??` or `#unconfirmed` as Speculative.
-8. **Cleanup**: Clear `Quick_Notes.md` (keep header) and delete processed files in `Unsorted/`.
+2. **Analysis & Source Priority**: 
+    - Prioritize information from web summaries or manual notes over transcripts.
+    - Treat transcripts as low-priority due to potential speech-to-text errors.
+    - Do not skip technical details or mechanic descriptions.
+3. **Naming Integrity**: 
+    - **DO NOT** rename or "correct" established unique names or game entities back and forth.
+    - If a transcript provides a name that contradicts an existing vault file or a high-priority source (web/manual), strictly keep the established version.
+4. **Language Consistency**: Ensure all summaries and content are in English.
+5. **Distribution**: Move info to folders (01-06). Use `01_Builds/Concepts/Build_Template.md` for new builds.
+6. **Synchronization & Deduplication**: 
+    - Search the vault before creating new files to prevent clones.
+    - Update related files to maintain vault consistency.
+7. **Linking**: Create and update cross-references (`[[Link]]`).
+8. **Uncertainty**: Mark `??` or `#unconfirmed` as Speculative.
+9. **Cleanup**: Clear `Quick_Notes.md` (keep header) and delete processed files in `Unsorted/`.
 
 Additional focus: {{args}}
 """
